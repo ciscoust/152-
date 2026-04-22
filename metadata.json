@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Tahqeeq 369 - تحقيق 369",
+  "description": "تطبيق متطور لجذب الأهداف باستخدام تقنية 369، مع تنبيهات ذكية وموسيقى تأملية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "pwa",
+    "notifications",
+    "audio"
+  ]
+}
